@@ -1,0 +1,61 @@
+body{
+    background-image: url("img/fondo.jpg");
+    background-size: 100%;
+    background-attachment:fixed;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+em {
+    font-family: 'Merriweather', serif;
+}
+#portada{
+
+
+    text-align: center;
+    position: relative;
+    top: 20%;
+
+    color: white ;
+    bottom: 0;
+}
+
+nav li {
+    display: inline-block;
+    width: 12%;
+    padding: 7px 7px;
+    background-color: #000;
+    border: 1px solid #000;
+    text-align: center;
+    color: #fff;
+}
+#destinos {
+    background: white;
+    width: 75%;
+}
+
+#d1 {
+    text-align: center;
+
+}
+#d2 {
+    text-align: left;
+}
+#d3{
+    text-align: right;
+}
+#d4{
+    text-align: left;
+}
+#d5{
+    text-align: right;
+}
+#d6{
+    text-align: left;
+}
+#d7{
+    text-align: right;
+}
+form{
+    background: #cad1ce;
+    left: 12px;
+}
